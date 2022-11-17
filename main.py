@@ -13,7 +13,7 @@ car = pygame.image.load('tesla.png')
 car = pygame.transform.scale(car, (30, 60))  # resizing the car
 car_x = 150
 car_y = 300
-
+# clock
 clock = pygame.time.Clock()
 
 # Displaying window
